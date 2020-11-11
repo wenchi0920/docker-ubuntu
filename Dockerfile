@@ -1,5 +1,5 @@
 
-FROM ubuntu:18.04
+FROM ubuntu:14.04
 
 ENV TZ=Asia/Taipei
 ENV DEBIAN_FRONTEND=noninteractive
